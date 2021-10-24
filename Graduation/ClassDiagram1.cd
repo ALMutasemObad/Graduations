@@ -1,0 +1,426 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Graduation.BL.Bonds" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAQAAA=</HashCode>
+      <FileName>BL\Bonds.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.BL.CLS_CUSTOMERS" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAABgAAAAEAAAAEIAAAAAAAAABCAAABAgEBBA=</HashCode>
+      <FileName>BL\CLS_CUSTOMERS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.BL.CLS_EMPLOYEE" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAIBAAAAAAAAAIAgAEAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\CLS_EMPLOYEE.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.BL.CLs_Item" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAIAAAAGAAAAEAAAAQAAAAQCAAICAAgAAAAAAEAAAAA=</HashCode>
+      <FileName>BL\CLs_Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.BL.CLS_PRODUCTS" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAACAAAAAQAAAABA=</HashCode>
+      <FileName>BL\CLS_PRODUCTS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.BL.CLS_SAILES" Collapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIIAQAAAAAACAAAAIAAAAAAAAAAAAAAAAQEAIAA=</HashCode>
+      <FileName>BL\CLS_SAILES.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.BL.CLS_unit" Collapsed="true">
+    <Position X="15.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAACAAAhAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\CLS_unit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.BL.general" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAgAAAAAAAAAAAoEAAAAAAAAAAAAEBAAAAAAAAA=</HashCode>
+      <FileName>BL\general.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.BL.prodCycle" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAQBAAAIBQQBAAAAIABQAAAAAAAAABAAAAAAEAAAA=</HashCode>
+      <FileName>BL\prodCycle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.DAL.d" Collapsed="true">
+    <Position X="17.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAADQCBAAFCAEAQAAggAAAAAgBKAAMAAAAQA=</HashCode>
+      <FileName>DAL\d.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.DAL.DataAccessLayer" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAIAABAAAAAAQAAAAAAAAAAJAAIACgAAA=</HashCode>
+      <FileName>DAL\DataAccessLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.DataSet3" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAwAAAALABAAAQABAAAgCQBgAAAgAAgEABRA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.DB" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAIAQAAAAAAAAAAAQAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>DB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.Graduation_DBDataSet" Collapsed="true">
+    <Position X="14" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwBAAAJAFAAAQAAAAAgCQBgAAAAAAAEIBBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.Graduation_DBDataSet1" Collapsed="true">
+    <Position X="15.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAAJABAAAQAAAAAiCQBhBAAAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.Graduation_DBDataSet2" Collapsed="true">
+    <Position X="17.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAAJABAAAQAAAAAgCQBgAAAAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.Graduation_DBDataSet3" Collapsed="true">
+    <Position X="5.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAwAAAAJABAAgQAAAAAgCQBgAAgAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.Graduation_DBDataSet5" Collapsed="true">
+    <Position X="7" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAAJCBAAAQAAAAAgCQBgAAAABAAEABFA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.Program" Collapsed="true">
+    <Position X="15.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.v" Collapsed="true">
+    <Position X="8.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAgAIAAAAAAAAAAgAAAAAAAEQAgAAICAQA=</HashCode>
+      <FileName>v.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.DataSet3TableAdapters.PURCHASEBILLTableAdapter" Collapsed="true">
+    <Position X="5.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.DataSet3TableAdapters.PURCHASEBILLDETAILSTableAdapter" Collapsed="true">
+    <Position X="17.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.DataSet3TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="14" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAABCAAABDABAEBAAAANAAgAAACgAAAAAQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.Graduation_DBDataSetTableAdapters.ChooseProductTableAdapter" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.Graduation_DBDataSetTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="15.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAEBAAAAMAAgAAACgAAAAAQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.Graduation_DBDataSet1TableAdapters.GET_ALL_CUSTOMERSTableAdapter" Collapsed="true">
+    <Position X="10.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.Graduation_DBDataSet1TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="17.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAEBAAAAMAAgAAACgAAAAAQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.Graduation_DBDataSet3TableAdapters.Get_SpecificProductTableAdapter" Collapsed="true">
+    <Position X="12.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.Graduation_DBDataSet3TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="5.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAEBAAAAMAAgAAACgAAAAAQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.Graduation_DBDataSet5TableAdapters.sale_productTableAdapter" Collapsed="true">
+    <Position X="10.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.Graduation_DBDataSet5TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="7" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAEBAAAAMAAgAAACgAAAAAQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.PL.dataGridView" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAACABAAAAAACAACACAAi4BwABCAAKIAAQAAA=</HashCode>
+      <FileName>PL\dataGridView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.PL.FRM_ADD_PRODUCT" Collapsed="true">
+    <Position X="12.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQCIgwACAAECACAACAEQACIQKG/QuAAAAIABAQKgA=</HashCode>
+      <FileName>PL\FRM_ADD_PRODUCT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.PL.FRM_Catogreis" Collapsed="true">
+    <Position X="14" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACABAAACAAGEAQACAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>PL\FRM_Catogreis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.PL.FRM_CUSTOMER" Collapsed="true">
+    <Position X="15.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAoASAACECgAAgAgCgAAICwYIf8BsgCYAQAHgCA2Y=</HashCode>
+      <FileName>PL\FRM_CUSTOMER.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.PL.FRM_CUSTOMER_AC" Collapsed="true">
+    <Position X="17.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAJAAAgCACAAMAAACABAGioIIAACkgAAQAgBIBAEI=</HashCode>
+      <FileName>PL\FRM_CUSTOMER_AC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.PL.FRM_Employee" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAIAAGACAMABICCQAAAGAAJA/msgAAAAAACQyAA=</HashCode>
+      <FileName>PL\FRM_Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.PL.Frm_Login" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAACEEAAAAhACAQAQKAAOAAAMAAAAAAAAAAAA=</HashCode>
+      <FileName>PL\Frm_Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.PL.FRM_MAIN" Collapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GHQAQ8ke/j+PEAKfAw2mBYAKIYYKIMCCUnAhcZQXGSw=</HashCode>
+      <FileName>PL\FRM_MAIN.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.PL.FRM_OpenForm" Collapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAgIGAAAACAAACAEAACAgAAYAgAAIAAAAEBAAA=</HashCode>
+      <FileName>PL\FRM_OpenForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.PL.FRM_Orders" Collapsed="true">
+    <Position X="12.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CEAVoAoBEGCECIAIpCaJMSQCsKAMVgsRkIwGgAsig2Q=</HashCode>
+      <FileName>PL\FRM_Orders.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.PL.FRM_PRODUCTS" Collapsed="true">
+    <Position X="14" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhAAAACAACAAAAAgAACAAAACAQIEAQiACAAAAAgAAAA=</HashCode>
+      <FileName>PL\FRM_PRODUCTS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.PL.FRM_SaleReport" Collapsed="true">
+    <Position X="15.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABEABgCgAAAEAAACCAAYCkAAA8AugAAQAiDJQAAI=</HashCode>
+      <FileName>PL\FRM_SaleReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.PL.FRM_SaProRe" Collapsed="true">
+    <Position X="17.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAgCgAAAEAAACAAAQCkAAA4AuAAAAAADJAAAI=</HashCode>
+      <FileName>PL\FRM_SaProRe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.PL.FRM_SAVE_SALE" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABADAgAAAAAACAAAACQAAGRIsAAAAIIAgQAAA=</HashCode>
+      <FileName>PL\FRM_SAVE_SALE.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.PL.FRM_USERS" Collapsed="true">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UAAAoBOQAjAGACABAgCJAQACgBI41AsQAIAAAAAGAAM=</HashCode>
+      <FileName>PL\FRM_USERS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.PL.frmCustomerPayedValue" Collapsed="true">
+    <Position X="8.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAIAAAACACAAEAAACABAOigACAACkgAAQAAAgAAEI=</HashCode>
+      <FileName>PL\frmCustomerPayedValue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.PL.frmItem" Collapsed="true">
+    <Position X="10.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CDIAQAgAADGgCACAAZKAUUanwRKG/KtCAMEAIBkgGAA=</HashCode>
+      <FileName>PL\frmItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.PL.frmItemShow" Collapsed="true">
+    <Position X="12.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAEAIAAABigwAAgkAQaAABCCkDIE0AsAAAQYAFEiEIA=</HashCode>
+      <FileName>PL\frmItemShow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.PL.frmPrdComp" Collapsed="true">
+    <Position X="14" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCAAEACgCCAAAAAAAACAEAACACIAQAuCCBAAAAAAAEA=</HashCode>
+      <FileName>PL\frmPrdComp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.PL.frmProgramSetting" Collapsed="true">
+    <Position X="15.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>PL\frmProgramSetting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.PL.frmSaveAndPrintInvoice" Collapsed="true">
+    <Position X="17.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgBAAACIAAAAAACCAAIACwAAAQAlAAAAAABFAAAA=</HashCode>
+      <FileName>PL\frmSaveAndPrintInvoice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.PL.FrmStart" Collapsed="true">
+    <Position X="5.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAQAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PL\FrmStart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.PL.frmStore" Collapsed="true">
+    <Position X="7" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IACAABAAACCAQAAAAQCACQAGAAIA0AsBAIAAgAIUAAA=</HashCode>
+      <FileName>PL\frmStore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.PL.frmUnit" Collapsed="true">
+    <Position X="8.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAIQKAgAEEAAACAAAACAIIAQCsAAIAAAAAACAA=</HashCode>
+      <FileName>PL\frmUnit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.PL.newPC" Collapsed="true">
+    <Position X="8.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAgAkBRAACEItBwAAACCAaJSAAoOAAwBCCQEABAACgA=</HashCode>
+      <FileName>PL\newPC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.PL.Phones" Collapsed="true">
+    <Position X="10.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEACACAAEAAoaAACwCQABIhAkEAIAZAIQAAAg=</HashCode>
+      <FileName>PL\Phones.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.PL.ProdCclMngmnt" Collapsed="true">
+    <Position X="12.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAJAQEAACAAMHAAgKbIAQACCAAABAQAEgQACCAEAAQ=</HashCode>
+      <FileName>PL\ProdCclMngmnt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.PL.Product_List" Collapsed="true">
+    <Position X="14" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACgAAAAAAACAAAACAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>PL\Product_List.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.PL.rrrrrr" Collapsed="true">
+    <Position X="8.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PL\rrrrrr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.PL.XtraForm1" Collapsed="true">
+    <Position X="10.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PL\XtraForm1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.Properties.Resources" Collapsed="true">
+    <Position X="7" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAQCQAAEAAAAAAAABEIAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graduation.Properties.Settings" Collapsed="true">
+    <Position X="12.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAQAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
